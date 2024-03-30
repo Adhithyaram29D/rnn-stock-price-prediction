@@ -5,8 +5,16 @@
 To develop a Recurrent Neural Network model for stock price prediction.
 
 ## Problem Statement and Dataset
+Develop a Recurrent Neural Network (RNN) model to predict the stock prices of Google. The goal is to train the model using historical stock price data and then evaluate its performance on a separate test dataset. The prediction accuracy of the model will be assessed by comparing its output with the true stock prices from the test dataset.
+#### Dataset: 
+The dataset consists of two CSV files:
+- Trainset.csv: This file contains historical stock price data of Google, which will be used for training the RNN model. It includes features such as the opening price of the stock.
 
+- Testset.csv: This file contains additional historical stock price data of Google, which will be used for testing the trained RNN model. Similarly, it includes features such as the opening price of the stock.
 
+Both datasets contain multiple columns, but for this task, only the opening price of the stock (referred to as 'Open') will be used as the feature for predicting future stock prices.
+
+The objective is to build a model that can effectively learn from the patterns in the training data to make accurate predictions on the test data.
 ## Design Steps
 
 ### Step 1:
@@ -107,8 +115,8 @@ plt.show()
 <img src = "https://github.com/Adhithyaram29D/rnn-stock-price-prediction/assets/119393540/453333ba-bfa1-492a-9238-fa8772624914" width ="400">
 
 ### Mean Square Error
-<img src = "https://github.com/Adhithyaram29D/rnn-stock-price-prediction/assets/119393540/7fb93a1e-c023-4e0b-95b7-4159c3947075", height
-
+<img src = "https://github.com/Adhithyaram29D/rnn-stock-price-prediction/assets/119393540/b55df6de-b44d-4c53-a643-68b6fdb0d57d" width ="400">
+<img src = "https://github.com/Adhithyaram29D/rnn-stock-price-prediction/assets/119393540/5b557c9e-f020-4dc4-8217-c7cff01ac119" height ="300">
 
 ## Result
 Thus a Recurrent Neural Network model for stock price prediction is executed Successfully.
