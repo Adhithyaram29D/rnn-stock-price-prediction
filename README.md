@@ -1,7 +1,6 @@
 # Stock Price Prediction
 ## AIM
 To develop a Recurrent Neural Network model for stock price prediction.
-
 ## Problem Statement and Dataset
 Develop a Recurrent Neural Network (RNN) model to predict the stock prices of Google. The goal is to train the model using historical stock price data and then evaluate its performance on a separate test dataset. The prediction accuracy of the model will be assessed by comparing its output with the true stock prices from the test dataset.
   #### Dataset: 
@@ -26,7 +25,6 @@ Train the model on the prepared training data.
 
 - Step 5:
 Preprocess test data, predict using the trained model, and visualize the results.
-
 ## Program
 #### Name: ADHITHYARAM D
 #### Register Number: 212222230008
