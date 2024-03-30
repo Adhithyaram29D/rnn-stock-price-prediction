@@ -10,12 +10,19 @@ To develop a Recurrent Neural Network model for stock price prediction.
 ## Design Steps
 
 ### Step 1:
-Write your own steps
+Read and preprocess training data, including scaling and sequence creation.
 
 ### Step 2:
+Initialize a Sequential model and add SimpleRNN and Dense layers.
 
 ### Step 3:
+Compile the model with Adam optimizer and mean squared error loss.
 
+### Step 4:
+Train the model on the prepared training data.
+
+### Step 5:
+Preprocess test data, predict using the trained model, and visualize the results.
 
 
 ## Program
@@ -97,11 +104,11 @@ plt.show()
 ## Output
 
 ### True Stock Price, Predicted Stock Price vs time
-![image](https://github.com/Adhithyaram29D/rnn-stock-price-prediction/assets/119393540/453333ba-bfa1-492a-9238-fa8772624914)
-
+<img src = "https://github.com/Adhithyaram29D/rnn-stock-price-prediction/assets/119393540/453333ba-bfa1-492a-9238-fa8772624914" width ="400">
 
 ### Mean Square Error
+<img src = "https://github.com/Adhithyaram29D/rnn-stock-price-prediction/assets/119393540/7fb93a1e-c023-4e0b-95b7-4159c3947075", height
 
-Include the mean square error
 
 ## Result
+Thus a Recurrent Neural Network model for stock price prediction is executed Successfully.
