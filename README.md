@@ -112,7 +112,7 @@ plt.show()
 ## Output
 
 ### True Stock Price, Predicted Stock Price vs time
-<img src = "https://github.com/Adhithyaram29D/rnn-stock-price-prediction/assets/119393540/453333ba-bfa1-492a-9238-fa8772624914" width ="400">
+<img src = "https://github.com/Adhithyaram29D/rnn-stock-price-prediction/assets/119393540/1ce0ba8e-ff7c-4b45-8897-fb9a15d16f33" width ="400">
 
 ### Mean Square Error
 <img src = "https://github.com/Adhithyaram29D/rnn-stock-price-prediction/assets/119393540/b55df6de-b44d-4c53-a643-68b6fdb0d57d" width ="400">
