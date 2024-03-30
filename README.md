@@ -1,7 +1,5 @@
 # Stock Price Prediction
-
 ## AIM
-
 To develop a Recurrent Neural Network model for stock price prediction.
 
 ## Problem Statement and Dataset
@@ -15,7 +13,6 @@ Develop a Recurrent Neural Network (RNN) model to predict the stock prices of Go
 Both datasets contain multiple columns, but for this task, only the opening price of the stock (referred to as 'Open') will be used as the feature for predicting future stock prices.
 The objective is to build a model that can effectively learn from the patterns in the training data to make accurate predictions on the test data.
 ## Design Steps
-
 - Step 1:
 Read and preprocess training data, including scaling and sequence creation.
 - Step 2:
@@ -29,7 +26,6 @@ Train the model on the prepared training data.
 
 - Step 5:
 Preprocess test data, predict using the trained model, and visualize the results.
-
 
 ## Program
 #### Name: ADHITHYARAM D
